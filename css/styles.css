@@ -1,6 +1,7 @@
-#output {
+.output {
   display: none;
   border-style: solid;
   border-color: solid red;
   margin-top: 50px;
+  padding: 15px;
 }
